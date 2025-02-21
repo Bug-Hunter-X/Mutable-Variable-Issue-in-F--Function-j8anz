@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with mutable variables in F# functions. The `add` function modifies its input parameters and returns a sum. However, the order of operations within the function can lead to unexpected results.
